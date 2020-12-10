@@ -1,0 +1,39 @@
+.main_card_items{
+    display: flex;
+    margin: 0px 210px 0px 210px;
+    justify-content: center;
+    
+}
+.main_card1{
+    /* display: flex; */
+    /* height: 100px; */
+    background-color: white;
+    /* border: 1px solid #ff0000; */
+    margin: 20px;
+    z-index: 2;
+}
+.cc1{
+    /* border: 2px solid brown; */
+    width: 400px;
+    padding: 16px;
+    padding-bottom: 10px;
+}
+.hh3{
+    margin: auto;
+    padding: 15px;
+    font-size: 24px;
+    height: 40px;
+}
+.content1{
+}
+.images2{
+    display: flex;
+}
+.image1{
+    font-size: 12px;
+    padding: 5px;
+}
+.see_more1{
+    margin-top: 24px;
+    text-decoration: none;
+}

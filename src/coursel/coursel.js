@@ -9,7 +9,7 @@ function Cour(){
         <div className="main_cor1">
             {/* <Carousel  className="c1" enableAutoPlay autoPlaySpeed={3000}> */}
             <div className="img1">   
-            <img  className="img11" src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Boson/Sid/CCBP/Nov/BAU/Credit-Card-Bill_1500x600_without._CB415288872_.jpg"></img>
+            {/* <img  className="img11" src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Boson/Sid/CCBP/Nov/BAU/Credit-Card-Bill_1500x600_without._CB415288872_.jpg"></img> */}
             </div>
             {/* <div>
 

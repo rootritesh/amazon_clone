@@ -3,16 +3,25 @@
     width: 100px;}
 }     */
 .main_cor1{
+    /* margin-top: 100px; */
+    height: 500px;
     text-align: center;
     align-items: center;
+    /* position; */
     /* display: flex; */
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Boson/Sid/CCBP/Nov/BAU/Credit-Card-Bill_1500x600_without._CB415288872_.jpg");
+    background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
 }
 .c1{
     border: 1px solid red;
     margin-left: 100px;
 }
 .img11{
-    margin-left: auto;
+    height: 200px;
+    width: 100%;
+    /* margin-left: auto; */
     justify-content: center;
     /* text-align: center; */
     align-items: center;
