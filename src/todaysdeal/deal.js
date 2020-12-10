@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
+import Data from './data';
 function Deal(){
     return(
-        <h1>Today's Deals</h1>
+        <Data></Data>
     );
 }
 export default Deal;
