@@ -5,8 +5,8 @@ import './Header.css';
 function RetnrOder(){
     return(
         <>
-        <p className ="si">Hello ,Sign in</p>
-        <p className ="si1">Account</p>
+        <p className ="or1">Return</p>
+        <p className ="or2">& Orders</p>
         </>
     );
 }

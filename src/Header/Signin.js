@@ -6,7 +6,7 @@ function Si(){
     return(
         <>
         <p className ="si">Hello ,Sign in</p>
-        <p className ="si1">Account</p>
+        <p className ="si1">Account & Lists</p>
         </>
     );
 }

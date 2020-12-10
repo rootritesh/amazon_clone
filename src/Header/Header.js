@@ -6,6 +6,7 @@ import Search from './search';
 import Sbtn from './Searchbtn';
 import Si from './Signin';
 import RetnrOder from './returnorder';
+import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
 function Header(){
     return(
         <>
@@ -26,6 +27,9 @@ function Header(){
                 </div>
                 <div className="returnorder">
                 <RetnrOder></RetnrOder>
+                </div>
+                <div className="shoping_cart">
+                    <ShoppingCartIcon className="shopping_cart_icon" fontSize="large"></ShoppingCartIcon>
                 </div>
             </div>
            
