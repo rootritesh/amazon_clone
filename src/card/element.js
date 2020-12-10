@@ -64,6 +64,65 @@ function Element(){
         ></Card1>
 
         </div>
+        <div className="main_card_items">
+
+        <Card1
+        heading="Automotive essentials | Up to 60% off"
+        img1="https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vega_helmet_372x232._SY116_CB405083904_.jpg"
+        title1="Helmets"
+        
+        img2="https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Tyre_372x232._SY116_CB405083904_.jpg
+        "
+        title2="Tyres"
+        
+        img3="https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Pressurewasher_372x232._SY116_CB405083904_.jpg"
+        title3="Pressure Washers"
+        
+        img4="https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Protective_gear_372x232._SY116_CB405083904_.jpg"
+        title4="Protective gear"
+        
+        link="
+        https://www.amazon.in/b/ref=SeemoreQC3_E?ie=UTF8&node=4772060031&pf_rd_r=8Q84DMTK1SPRGA37GJXX&pf_rd_p=9c02521b-b25f-41f6-afbf-61d509d1f4b9"
+        
+        ></Card1>
+        <Card1
+        heading="Pocket-friendly styles | Up to 60% off"
+        img1="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Fashion/EVENT/PstJUP-GW/Eng/PFF/PC/Clothing._SY116_CB417236893_.jpg"
+        title1="Clothing under ₹599"
+        
+        img2="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Fashion/EVENT/PstJUP-GW/Eng/PFF/PC/footwear._SY116_CB417236893_.jpg"
+        title2="Footwear under ₹599"
+        
+        img3="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Fashion/EVENT/PstJUP-GW/Eng/PFF/PC/handbags--watches._SY116_CB417236893_.jpg"
+        title3="Bags, watches & more under ₹599"
+        
+        img4="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Fashion/EVENT/PstJUP-GW/Eng/PFF/PC/View-all._SY116_CB417236893_.jpg"
+        title4="View all offers | Up to 60% off"
+        
+        link="https://www.amazon.in/b/ref=sl_gw_feb20?node=6648217031&pf_rd_r=8Q84DMTK1SPRGA37GJXX&pf_rd_p=139e64b6-dd4a-4da5-b250-91ab224c9664"
+        
+        ></Card1>
+        <Card1
+        heading="Professional tools, testing & more"
+        img1="https://images-eu.ssl-images-amazon.com/images/G/31/img17/Biss/2018/QC/Tools1x._SY116_CB424026090_.jpg"
+        title1="Professional Tools"
+        
+        img2="https://images-eu.ssl-images-amazon.com/images/G/31/img17/Biss/2020/GW/Testing_186x116._SY116_CB406506816_.jpg
+        "
+        title2="Measuring instruments"
+        
+        img3="https://images-eu.ssl-images-amazon.com/images/G/31/img17/Biss/2018/QC/Jan_san1_186x116._SY116_CB406505878_.jpg"
+        title3="Cleaning supplies"
+        
+        img4="https://images-eu.ssl-images-amazon.com/images/G/31/img17/Biss/2018/QC/med1x._SY116_CB424026091_.jpg"
+        title4="Medical supplies"
+        
+        link="https://www.amazon.in/b/ref=MOREPC?ie=UTF8&node=5866078031&pf_rd_r=8Q84DMTK1SPRGA37GJXX&pf_rd_p=97697ed1-5b1c-4f63-998b-2276ccf3c1e5"
+        
+        ></Card1>
+
+        </div>
+        
         </>
     );
 }
