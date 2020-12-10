@@ -8,7 +8,7 @@ function Data(props){
             <h2 className="h2_deal">Today's Deals</h2>
             <div className="content_deal">
                 <img  className =" image1"src={props.img}></img>
-                <p className="range">₹51,999.00 - ₹58,999.00</p>
+    <p className="range">{props.range}</p>
             </div>
         </div>
     );
