@@ -1,0 +1,19 @@
+/* @media screen and (max-width: 70%) {
+.main_cor1{
+    width: 100px;}
+}     */
+.main_cor1{
+    text-align: center;
+    align-items: center;
+    /* display: flex; */
+}
+.c1{
+    border: 1px solid red;
+    margin-left: 100px;
+}
+.img11{
+    margin-left: auto;
+    justify-content: center;
+    /* text-align: center; */
+    align-items: center;
+}
