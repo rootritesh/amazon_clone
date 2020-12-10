@@ -2,7 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './Header.css';
 import Drop from './dropdown';
-
+import Search from './search';
+import Sbtn from './Searchbtn';
+import Si from './Signin';
 function Header(){
     return(
         <>
@@ -13,6 +15,19 @@ function Header(){
             <div className="search_main">
                 <Drop></Drop>
             </div>
+            <div className="search_main1">
+                <Search></Search>
+                <Sbtn></Sbtn>
+            </div>
+            <div className="right_el">
+                <div className="signin">
+                <Si></Si>
+                </div>
+            </div>
+           
+            
+            
+            
         </div>
         </>
 
