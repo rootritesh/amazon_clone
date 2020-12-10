@@ -1,0 +1,13 @@
+.main_deal{
+    background-color: white;
+    margin-left: 260px;
+    margin-right: 260px;
+    border: 1px solid red;
+}
+.content_deal{
+    padding: 20px;
+}
+.h2_deal{
+    font-size: 27px;
+    padding: 10px
+}
