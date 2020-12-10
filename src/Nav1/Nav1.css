@@ -1,0 +1,22 @@
+/* @media only screen and (max-width: 1000px){
+.hide1{visibility: hidden; color: red;}
+} */
+.nav1_main{
+    /* display: block; */
+    padding: 10px;
+    /* border: 1px solid red; */
+    height: 20px;
+    background-color: #232F3E;
+}
+.item1{
+    margin: 0px 2px 0px 2px;
+    /* border: 1px solid yellow; */
+    padding: 5px 10px 5px 10px;
+    color: white
+}
+.item1:hover{
+    position: static;
+    border: 1px solid white;
+    cursor: pointer;
+
+}
