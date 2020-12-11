@@ -32,8 +32,8 @@
 .second_footer{
     border-top: 1px solid #3A4553;
     background-color: #232F3E;
-    /* border: 2px solid red; */
-    height: 130px;
+    border: 2px solid red;
+    height: 170px;
 }
 .s2_content{
     display: flex;
@@ -59,4 +59,32 @@
 .footer_option{
     background-color: white;
     color: black;
+}
+.lang_footer{
+    justify-content: center;
+    text-align: center;
+}
+.lan_item{
+    text-decoration: none;
+    color: white;
+    padding: 0px 10px;
+    font-size: 13px;
+}
+.lan_item:hover{
+    text-decoration: underline;
+}
+
+
+.third_footer{
+    height: 200px;
+    background-color: #131A22;
+    color: white;
+}
+.thfoot_main{
+    display: flex;
+}
+.th_item{
+    text-decoration: none;
+    color: white;
+    
 }
