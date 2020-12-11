@@ -1,10 +1,13 @@
-import React from 'react';
+import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
 import './deal.css'
 import Timer from 'react-compound-timer';
+// import './Header/Header.js';
 
 function Data(props){
+    const [count, setCount] = useState(0);
     return(
+
         <div className="main_deal">
             <div className="main_deal2">
             
@@ -24,8 +27,8 @@ function Data(props){
                 )}
                 </Timer></p>
                 <div className="add_to_cart_main_btn">
-
-                <button className="add_to_cart_btn">Add to Cart</button>
+            
+                <button onClick={() => setCount(count + 1)}className="add_to_cart_btn">Add to Cart</button><p>You clicked {count} times</p>
                 </div>
                 </div>
             </div>
