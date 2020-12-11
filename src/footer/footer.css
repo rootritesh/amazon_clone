@@ -81,12 +81,22 @@
     background-color: #131A22;
     color: rgb(230, 228, 228);
 }
-.thfoot_main{
+.main_content_thfoot{
     display: flex;
     justify-content: center;
 }
+.thfoot_main{
+    
+}
+.row1_item{
+    /* border: 1px solid red; */
+    margin: 20px 50px;
+}
+.div_item{
+    margin-top: 10px;
+
+}
 .th_item{
-    justify-content: center;
     text-decoration: none;
     color: rgb(236, 236, 236);
 }
