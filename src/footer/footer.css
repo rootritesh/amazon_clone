@@ -1,0 +1,45 @@
+.main_fotter{
+    background-color: #232F3E;
+    /* border: 1px solid red; */
+    display: flex;
+    height: 250px;
+    padding: 30px;
+    flex-direction: row;
+    justify-content: center;    
+    color: white;
+}
+.get_footer{
+    
+    /* border: 2px solid green; */
+    padding: 10px;
+    margin: 20px 50px 10px;
+    
+}
+.fotter_ul{
+    list-style-type: none;
+    
+}
+.li_footer{
+    color: rgb(236, 236, 236);
+    padding: 7px;
+    font-size: 15px;
+}
+.li_heading{
+    padding: 7px;
+    font-weight: 600;
+}
+
+.second_footer{
+    border-top: 1px solid #3A4553;
+    background-color: #232F3E;
+    /* border: 2px solid red; */
+    height: 130px;
+}
+.s2_content{
+    display: flex;
+    justify-content: center;
+
+}
+.amazon_logo_footer{
+    height: 100px;
+}

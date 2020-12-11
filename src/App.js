@@ -6,6 +6,7 @@ import { Card } from '@material-ui/core';
 import Element from './card/element';
 import Element1 from './card/element1';
 import Deal from './todaysdeal/deal';
+import Footer from './footer/fotter';
 function App() {
   return (
     <div className="App">
@@ -15,6 +16,7 @@ function App() {
       <Element></Element>
       <Deal></Deal>
       <Element1></Element1>
+      <Footer></Footer>
     </div>
   );
 }
