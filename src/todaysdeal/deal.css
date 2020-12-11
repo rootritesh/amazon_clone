@@ -9,6 +9,18 @@
     /* border: 1px solid red; */
     
 }
+.h2_deal_main{
+    height: 40px;
+    width: 100%;
+    border: 2px solid red;
+}
+.h2_deal{
+    background-color: white;
+    /* height: 20px; */
+    margin-left: 260px;
+    font-size: 27px;
+    padding: 20px
+}
 .data_deal{
     margin-left: 260px;
     margin-right: 260px; 
@@ -19,10 +31,4 @@
 .content_deal{
     /* border: 2px solid green; */
     padding: 20px;
-}
-.h2_deal{
-    background-color: white;
-    height: 20px;
-    font-size: 27px;
-    padding: 10px
 }
