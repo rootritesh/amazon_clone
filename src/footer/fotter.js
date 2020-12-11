@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './footer.css'
+import Drop_footer from './dropdown';
 
 function Footer(){
     return(
@@ -50,6 +51,8 @@ function Footer(){
         <div className="second_footer">
             <div className="s2_content">
                 <img className="amazon_logo_footer" src="https://www.rivadelpo.it/wp-content/uploads/2020/01/amazon.png"></img>
+                <Drop_footer></Drop_footer>
+                
             </div>
         </div>
         </>

@@ -42,4 +42,21 @@
 }
 .amazon_logo_footer{
     height: 100px;
+    padding: 10px;
+}
+.drop_footer{
+    color: white !important;
+}
+.main_drop_footer{
+    padding-top: 35px;
+    height: 100px;
+}
+.fotter_drop_1{
+    padding: 10px;
+    background-color: #232F3E ;
+    color: white;
+}
+.footer_option{
+    background-color: white;
+    color: black;
 }
