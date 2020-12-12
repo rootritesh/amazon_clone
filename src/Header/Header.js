@@ -7,12 +7,7 @@ import Sbtn from './Searchbtn';
 import Si from './Signin';
 import RetnrOder from './returnorder';
 import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
-import {
-    BrowserRouter as Router,
-    Switch,
-    Route,
-    Link
-  } from "react-router-dom";
+
 import Login from './Login';
 
 function Header(){
@@ -31,9 +26,9 @@ function Header(){
             </div>
             <div className="right_el">
                 <div className="signin">
-                    <Link to="/login">
+                    
                          <Si></Si>
-                    </Link>
+                    
                         
                     
                     
